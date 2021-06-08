@@ -17,8 +17,5 @@ public class Main {
         for (int i = 0; i<intArray.length; i++){
             System.out.println(i +"-> "+ intArray[i]);
         }
-
-
-
     }
 }
